@@ -4,10 +4,10 @@
 
 # Credits 
 
-• [DARK](t.me/Bro_isDarkal)
+• [DARK](https://t.me/Bro_isDarkal)
 
 # Channel 
 
-• [ANIME CHANNEL](t.me/Animes_Encoded)
+• [ANIME CHANNEL](https://t.me/Animes_Encoded)
 
 `Make  sure  you  support  us`
