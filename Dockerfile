@@ -6,3 +6,4 @@ RUN apt -qq update && apt -qq install -y git wget pv jq python3-dev ffmpeg media
 COPY . .
 RUN pip3 install -r requirements.txt
 CMD ["bash","run.sh"]
+# 🤯
