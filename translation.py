@@ -1,14 +1,5 @@
+# its @dark-senpai 
 class Dictionary(object):
-  START_TEXT = "I am **Tsunade**, the fifth hokage of the village hidden in the leaf.\nDont get the wrong idea about my chest size pervs..I am more powerful than **Saitama** and can kill you in a single cold punch!\nMade by (Dark)[https://t.me/Bro_isDarkal]\n\nPowered By - @Animes_Encoded"
-  HELP_TEXT = "Watch naruto!"
-  ABOUT_TEXT = "watch naruto!"
-  FAK_TEXT = "Hey sar! you dont know anything , learn from me instead of boasting 🤬"
-  ANNOY_TEXT = "I won't teach you ffmpeg ! You bastard , you wont loose your virginity by fucking my dm 🤬"
-  BYE_TEXT = "This world shal know pain! **Almighty Push**! Lmao Bye ! 😂"
-  NAUGHT_TEXT = "Lol You naughty naughty 👀"
-  PERV_TEXT = "Hey perv, ecchi fan ! You will be single whole life 🥴"
-  WEEB_TEXT = "Hey single weeb, you wont get a weeb girl 🤫"
-  WELCOME_TEXT = "A perv has entered the chat now ! Be ready with your gbanhammers....."
-  
-  
+  START_TEXT = "Send me a video or direct link to a video to get started"
+  HELP_TEXT = "•Module• •Help•\n\nChannel - @Animes_Encoded\nSupport group - @Animes_Encoded_Group\n\nMy commands:\n /start - **To check whether the bot is alive or not**\n/restart - **To restart the bot**\n\n**Send me a video to get started and choose:**\n⚡Video format to convert video to another format. For example: MP4, MKV etc.\n⚡COMPRESS to compress video. Use /compress command for doing custom compression with higher quality"
   
